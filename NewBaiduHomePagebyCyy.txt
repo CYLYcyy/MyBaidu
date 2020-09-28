@@ -86,7 +86,7 @@
     
     
     <div class="center" style="position:relative;top:100px"><!--百度logo-->
-        <img src="http://img3.imgtn.bdimg.com/it/u=1244367615,2028532212&amp;fm=214&amp;gp=0.jpg" style="width:280px;height:100px" alt="Bai百度" title="Bai百度">
+        <img img.jpg" style="width:280px;height:100px" alt="Bai百度" title="Bai百度">
     </div>
     <div class="center" style="position:relative;top:120px;"><!--搜索框-->
         <form>
